@@ -1,4 +1,4 @@
-package baseball;
+/*package baseball;
 
 public class Score {
 	private int scnt;
@@ -22,3 +22,4 @@ public class Score {
 		}
 	
 }
+*/

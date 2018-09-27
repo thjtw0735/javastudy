@@ -1,4 +1,4 @@
-package baseball;
+/*package baseball;
 
 public class Game {
 	public Game(int value){
@@ -10,3 +10,4 @@ public class Game {
 	}
 	
 }
+*/
